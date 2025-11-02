@@ -1,4 +1,4 @@
-<img width="1832" height="953" alt="image" src="https://github.com/user-attachments/assets/9ebd22f8-5a01-4f7a-be29-e3ce5a17aecf" /># EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
+# EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
 
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
